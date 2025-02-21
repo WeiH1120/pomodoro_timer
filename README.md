@@ -1,4 +1,4 @@
-# pdf_operation
+# pomodoro_timer
 
 # Virtual environment
 ## Install package
